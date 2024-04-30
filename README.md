@@ -1,0 +1,1 @@
+This is the website made using  only html, css and javascript
